@@ -24,10 +24,9 @@ This **Weather App** focuses on creating a functional Weather App using best pra
 
 ## ✨ Features
 
-- ✅ Create, edit, delete, and sort tasks  
-- ✔️ Mark tasks as complete  
--  Organize tasks by project  
--  Persist tasks using `localStorage`
+- ✅ Search for weather data based on location provided by users 
+- ✔️ Switch between metric unit and US unit
+-  Show weather forecast for the next 6 days
 
 ---
 
@@ -46,7 +45,7 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/XucXystDuc2018/toDoList.git
+   git clone https://github.com/XucXystDuc2018/WeatherApp.git
    ```
 
 2. **Install the dependencies:**
