@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+<script defer src="main.js"></script></head>
+<body>
+    <div class="side-bar-container">
+        <div class="header">
+                <h1 class="heading">Weather App</h1>
+        </div>
+        <div class="body">
+            <form method="" class="form" data-form>
+                <select id="unit-selection" name="unit-selection" data-unit-select>
+                    <option value="metric">Celsius, km</option>
+                    <option value="us">Fahrenheit, miles</option>
+                </select>
+                <input type="search" id="location-search" name="location-search" required placeholder="Enter your location..." data-location-input/>
+                <button type="submit" class="search-btn">Search</button>
+            </form>
+
+            <p class="status-text" id="status-text" data-status-text></p>
+        </div>
+    </div>
+    
+    <div class="weather-info-container" data-weather-info-container>
+        
+    </div>
+</body>
+</html>
