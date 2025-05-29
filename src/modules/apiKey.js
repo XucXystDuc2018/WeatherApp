@@ -1,0 +1,1 @@
+export const API_KEY = '366G7E23SWQ688M6SRBZ9ZWUQ' //this should not be public but it is what it is for now

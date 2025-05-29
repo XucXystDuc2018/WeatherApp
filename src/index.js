@@ -1,10 +1,4 @@
-import { setupEventListeners } from './modules/eventsListener.js';
-import { render } from './modules/dom.js';
-import {handleTaskDialog} from './dialogHandlers/taskDialogHandler.js'
-import {handleTaskEditDialog} from './dialogHandlers/taskEditDialogHandler.js'
 import "./styles.css";
+import { setupFormSubmitListener } from "./modules/eventListener.js";
 
-render();
-setupEventListeners();
-handleTaskDialog();
-handleTaskEditDialog();
+setupFormSubmitListener()

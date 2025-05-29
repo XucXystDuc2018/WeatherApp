@@ -1,17 +1,10 @@
-# 📝 To-Do List App
+# Weather App
 
 ## 📌 About the Project
 
-This **To-Do List App** focuses on creating a functional and well-structured todo list using best practices in:
-- Project organization
-- JavaScript functionality
-- Front-end development principles
-
-### 📚 Key Concepts Practiced
-- 🧠 DOM manipulation  
-- 🧱 Object-oriented design  
-- 💾 Local Storage management  
-- 📦 Webpack bundling
+This **Weather App** focuses on creating a functional Weather App using best practices in:
+- 💾 Asynchronous code
+- 🗂️ Working with APIs
 
 ---
 
@@ -33,8 +26,8 @@ This **To-Do List App** focuses on creating a functional and well-structured tod
 
 - ✅ Create, edit, delete, and sort tasks  
 - ✔️ Mark tasks as complete  
-- 🗂️ Organize tasks by project  
-- 💾 Persist tasks using `localStorage`
+-  Organize tasks by project  
+-  Persist tasks using `localStorage`
 
 ---
 
